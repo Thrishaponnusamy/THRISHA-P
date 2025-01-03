@@ -6,8 +6,10 @@ public class Main{
    int num2=sc.nextInt();
    if(num1==num2){
      System.out.print("Two inputs are eaqual");
-   else
+   }
+   else{
      System.out.print("Two inputs are not  eaqual");
+   }
    }
 }
 
